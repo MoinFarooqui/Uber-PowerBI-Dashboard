@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="Assets/Banner.png" alt="Uber Power BI Dashboard Banner" width="100%">
+  <img src="Assets/Banner.png.jpg" alt="Uber Power BI Dashboard Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="Assets/Logo_of_Uber.png" alt="Uber Logo" width="180">
-</p>
-
-<h1 align="center">Uber Power BI Dashboard</h1>
-
-<p align="center">
-Interactive Business Intelligence Dashboard using Microsoft Power BI
+  <img src="Assets/Logo_of_Uber.png.png" alt="Uber Logo" width="180">
 </p>
 
 ---
